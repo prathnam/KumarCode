@@ -1,0 +1,20 @@
+Docker:
+
+id: prathnam
+pw: Kumar1981
+
+repo: prathnam/kumarsrepo
+
+docker pull prathnam/kumarsrepo
+
+
+github:
+
+https://github.com/prathnam/KumarCode
+
+prathnam
+Kumar1981
+
+organization: prashanthorg
+
+Repository name: KumarCode
